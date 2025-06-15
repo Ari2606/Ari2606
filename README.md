@@ -1,8 +1,8 @@
 - Hi, I’m Ria
 - 🌱 I’m a second-year CSE student 
 - 🛠 **Tech Stack:**  
-- **Languages:** C, Python, Swift  
-- **Tools:** Git, VS Code, Arduino, Linux  
+- **Languages:** C, Python, Swift, JavaScript, HTML - CSS, C#
+- **Tools:** Git, VS Code, Arduino, Linux, Matlab  
 - ⚡ Fun fact: I like roller skating, listening to rock music, and doing photography 🛼🎸📸
 
 <!---
