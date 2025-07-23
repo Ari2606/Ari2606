@@ -26,7 +26,7 @@
 <div align="center">
 
 ### Fun Fact  
-I love roller skating, listening to rock and hip-hop, and capturing moments through photography  
+I love roller skating, listening to rock and hip-hop music, and capturing moments through photography  
 
 </div>
 
