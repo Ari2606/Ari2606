@@ -26,7 +26,7 @@
 <div align="center">
 
 ### Fun Fact  
-I love roller skating, listening to rock and hip-hop, and capturing moments through photography 🛼🎸📸
+I love roller skating, listening to rock and hip-hop, and capturing moments through photography  
 
 </div>
 
@@ -43,7 +43,7 @@ I love roller skating, listening to rock and hip-hop, and capturing moments thro
 ### 🎧 My Playlist
 
  **My Eyes** – Travis Scott  
- **Dumb** – Nirvana  
+ ✩ **Dumb** – Nirvana ✩
  **Nights** – Frank Ocean  
 
 </div>
