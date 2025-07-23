@@ -42,8 +42,8 @@ I love roller skating, listening to rock and hip-hop, and capturing moments thro
 
 ### 🎧 My Playlist
 
- **My Eyes** – Travis Scott  
- ✩ **Dumb** – Nirvana ✩
+ **My Eyes** – Travis Scott  <br>
+ ✩ **Dumb** – Nirvana ✩ <br>
  **Nights** – Frank Ocean  
 
 </div>
